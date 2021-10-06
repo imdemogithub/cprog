@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include "type.h"
 // #include <type.h>
+// check data types
 
 int main() {
     int a = 5;
